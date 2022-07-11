@@ -39,8 +39,9 @@ p {
     Header and Main Navigation
     ========================== */
 
-    /* The header is the space at the top of the webpage; the navigation bar is 
-    placed with the header. */
+    /* The header is the space at the top of the webpage; the navigation bar
+    is placed with the header and allows users to more easily "navigate" to
+    different areas on the website. */
 
 .header {
     background-color: #2a607c;
@@ -80,11 +81,14 @@ p {
     ------------ */
 
 .hero {
+    /* sets the baackground of a large top-portion of the homepage as the
+    corresponding image */
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-position: center;
     background-size: cover;
     height: 800px;
     margin-bottom: 25px;
+    /* uses the entire width of the screen */
     width: 100%;
 }
 
@@ -170,6 +174,9 @@ p {
 .benefits-content {
     margin-bottom: 32px;
 }
+
+/* The footer is the space at the bottom of the webpage, and often includes
+details like final words, contact information, legality, etc. */
 
 .footer {
     clear: both;
