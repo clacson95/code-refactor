@@ -1,13 +1,15 @@
-/*  ------------------------------------------------
+/*  ************************************************
+    
     [Table of Contents]
 
     - General Structure
     - Header and Main Navigation
-        * Banner Image
+        + Banner Image
     - Primary Content
     - Secondary Content
+    - Footer
 
-    ------------------------------------------------  */
+    ************************************************  */
 
 
 
@@ -15,7 +17,7 @@
     General Structure
     ================= */
 
-    /* Universal selector, applies to and and all elements */
+    /* Universal selector, applies to any and all elements */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -174,6 +176,10 @@ p {
 .benefits-content {
     margin-bottom: 32px;
 }
+
+/*  ======
+    Footer
+    ====== */
 
 /* The footer is the space at the bottom of the webpage, and often includes
 details like final words, contact information, legality, etc. */

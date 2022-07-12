@@ -10,3 +10,6 @@ _The primary areas of code that were refactored are as follows:_
 * Added alt attributes to six (6) image and icon elements
 * Ordered the CSS properties alphabetically, beneath their respective selectors
 * Developed extensive comments on the stylesheet, including a Table of Contents to give an overview of the CSS, section titles to organize the different selectors and properties, and explanations/descriptions for the various items.
+
+### Deployed Application
+https://clacson95.github.io/code-refactor/
